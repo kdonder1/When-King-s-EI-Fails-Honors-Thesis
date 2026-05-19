@@ -1,6 +1,7 @@
 # WHEN KING'S ECOLOGICAL INFERENCE FAILS: DIAGNOSING THE SMALL-N PROBLEM IN DATA-SPARSE ENVIRONMENTS USING MOUNT PLEASANT ELECTION DATA
 ## Kristina Donders
 ## Binghamton University, 2026
+### Advisor: Dr. Daniel Magleby
 
 This thesis examines the small-N limitation in Gary King’s Ecological Inference (EI) model and explores how data structure and noise affect model convergence in data-sparse environments. Ecological inference is commonly used in racial polarization and Voting Rights Act analysis to estimate individual-level voting behavior from aggregate precinct-level data. While prior literature has acknowledged that small sample sizes can create issues for EI, this thesis argues that model failure is not driven by sample size alone, but rather by the interaction between small-N settings and unstable data distributions.
 
