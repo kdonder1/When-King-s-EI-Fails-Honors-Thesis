@@ -8,4 +8,4 @@ Using precinct-level demographic and election data from Mount Pleasant, New York
 
 The findings demonstrate that no universal minimum sample size exists for EI convergence. Instead, convergence depends heavily on the underlying structure and stability of the data. The simulation study further shows that EI can perform well even at small sample sizes when noise and instability are minimized. These results suggest that researchers should use caution when applying EI in small-N jurisdictions and should evaluate data stability alongside sample size before interpreting estimates. 
 
-This repository contains all code that was used to generate figures, as well as a full copy of my thesis!
+This repository contains all code that was used to generate figures, datasets utilized in this project, as well as a full copy of my thesis!
